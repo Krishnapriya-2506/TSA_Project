@@ -1,3 +1,7 @@
+setuptools
+wheel
+build
+
 Flask==2.3.3
 Flask-Cors==4.0.0
 gunicorn==20.1.0
@@ -10,3 +14,4 @@ python-multipart
 textstat==0.7.3
 scikit-learn==1.3.2
 nltk==3.8.1
+
